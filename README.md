@@ -41,6 +41,6 @@ The antenna connector is a SMA connector like it is used on many Hand-helds.
 **hand mic connector (CN3 and CN4)**
 CN3 and CN4 form a hand mic connector which is compatible to Kenwood or Baofeng.
 
-
+https://www.dorji.com/docs/data/DRA818V.pdf
 
 more information (in German): http://blog.generationmake.de/articles/8/arduino-shield-mit-dorji-dra818-transceiver-modul
