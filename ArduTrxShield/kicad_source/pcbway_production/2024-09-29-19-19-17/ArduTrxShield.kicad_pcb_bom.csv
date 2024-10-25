@@ -1,0 +1,36 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type
+"C1, C4",2,30p,C_0603,,,,smt
+"C10, C11, C12, C14, C16, C17, C18, C19, C20, C5, C7, C8",12,100n,C_0603,,,,smt
+C13,1,1u,C_0603,,,,smt
+C15,1,470u,c_elec_8x10.5,,,,smt
+"C2, C3",2,47p,C_0603,,,,smt
+"C6, C9",2,10u,C_0805,,,,smt
+CN1,1,60312202114509,WR-SMA-PCB,,,,tht
+CN2,1,ARDUINO,ARDUINO,,,,tht
+CN3,1,CON_KLINKE3,1503_07,,,,tht
+CN4,1,CON_KLINKE3,1501_03,,,,tht
+CN5,1,CONN_01X03,Pin_Header_Straight_1x03,,,,tht
+CN6,1,CONN_01X02,Pin_Header_Straight_1x02,,,,tht
+CN7,1,691322310002,WR-TBL_691322310002,,,,tht
+D1,1,Led_red,LED_0603,,,,smt
+D2,1,Led_yellow,LED_0603,,,,smt
+D3,1,Led_green,LED_0603,,,,smt
+D4,1,BAT46ZFILM,SOD-123,,,,smt
+"L1, L2, L3",3,744912156,WE-CAIR_4248,,,,tht
+"Q1, Q2, Q3",3,2N7002,SOT-23,,,,smt
+"R1, R10, R14, R16, R24, R25, R26, R31, R6, R7, R8",11,1k,R_0603,,,,smt
+"R11, R18, R22, R3, R9",5,100,R_0603,,,,smt
+"R12, R13, R2, R21, R27, R33, R34",7,4k7,R_0603,,,,smt
+R15,1,121,R_0603,,,,smt
+R17,1,300,R_0603,,,,smt
+"R19, R20, R36",3,20k,R_0603,,,,smt
+R23,1,2k,R_0603,,,,smt
+"R28, R29, R30, R32, R4, R5",6,DNI,R_0603,,,,smt
+R35,1,100k,R_0603,,,,smt
+S1,1,SW_DIP_x1,dip_1-300,,,,tht
+SW1,1,TAST_HOR,WE_4312x6xxx7x6,,,,tht
+SW2,1,ALPS_EC11E,ALPS_EC11E,,,,tht
+U1,1,DRA818,DRA818,,,,tht
+U2,1,LT1085,TO-263-3Lead,,,,smt
+U3,1,LM4871,SOIC-8_3.9x4.9mm_Pitch1.27mm,,,,smt
+"U4, U5",2,SN74LVC1T45,SOT-23-6,,,,smt

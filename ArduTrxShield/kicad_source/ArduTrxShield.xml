@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/chengmania/Downloads/ArduTrxShield/kicad_source/ArduTrxShield.sch</source>
+    <date>2024-09-29T19:13:05-0400</date>
+    <tool>Eeschema 8.0.5-8.0.5-0~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>ArduTrx Shield</title>
+        <company/>
+        <rev>x1.1</rev>
+        <date>2018-08-21</date>
+        <source>ArduTrxShield.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="CN7">
+      <value>691322310002</value>
+      <footprint>CON_wuerth:WR-TBL_691322310002</footprint>
+      <fields>
+        <field name="Footprint">CON_wuerth:WR-TBL_691322310002</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ArduTrxShield-rescue" part="691322310002-CON_wuerth" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="/home/chengmania/Downloads/ArduTrxShield/kicad_source/ArduTrxShield.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005b8d61b8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ArduTrxShield-rescue" part="691322310002-CON_wuerth">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">CON_wuerth:691322310002</field>
+        <field name="Footprint">CON_wuerth:WR-TBL_691322310002</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ArduTrxShield-rescue">
+      <uri>/home/chengmania/Downloads/ArduTrxShield/kicad_source/ArduTrxShield-rescue.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="36" name="unconnected-(CN7-P1-Pad1)">
+      <node ref="CN7" pin="1" pinfunction="P1" pintype="passive"/>
+    </net>
+    <net code="37" name="unconnected-(CN7-P2-Pad2)">
+      <node ref="CN7" pin="2" pinfunction="P2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
